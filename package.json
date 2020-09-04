@@ -1,0 +1,33 @@
+{
+  "name": "harshblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.0",
+    "ejs": "^3.0.1",
+    "express-sanitizer": "^1.0.5",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.1",
+    "fs": "^0.0.1-security",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.8.12",
+    "package.json": "^2.0.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshdeepsingh123/new-webstite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshdeepsingh123/new-webstite/issues"
+  },
+  "homepage": "https://github.com/harshdeepsingh123/new-webstite#readme"
+}
